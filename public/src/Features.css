@@ -1,0 +1,31 @@
+.img{
+    height: 150px;
+    width: 150px;
+    
+}
+.c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+}
+.head{
+    text-align: center;
+    /* margin: 2%; */
+    padding: 0% 5%;
+    width: 700px;
+    padding-top: 3%;
+   
+    border-bottom: 2px solid  #fc4a1a;
+    margin: auto;
+   
+}
+.right{
+    margin-left: 2%;
+}
+#big {
+    background-color: rgb(91, 176, 176);
+}
+.row1{
+    margin-top: 3%;
+}

@@ -1,0 +1,41 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.home{
+    padding: 7% 4%;
+   background-color: rgb(91, 176, 176);
+    
+    
+}
+.image{
+    display: flex;
+}
+.first{
+    height: 400px;
+    width: 450px;
+}
+.second{
+    height: 200px;
+    width: 200px;
+    margin-left: -100px;
+    margin-top: -60px;
+}
+.col-7 h1{
+    font-family: 'Lilita One', sans-serif;
+}
+.col-7 button{
+    width: 200px;
+    border: none;
+    padding: 9px;
+    border-radius: 8px;
+    font-weight: bold;
+    background: #fc4a1a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border: 1px solid black;
+}
